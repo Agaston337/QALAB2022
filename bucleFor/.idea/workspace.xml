@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fe677d0-8f6b-46a2-911f-136b433f96a7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppArrays/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppArrays/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppArrays/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppArrays/AppArrays.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppArrays/AppArrays/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppArrays/AppArrays/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppArrays/AppArrays/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppArrays/AppArrays/AppArrays.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppArrays/AppArrays/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppArrays/out/production/AppArrays/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppArrays/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +43,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Brenda/Desktop/GIT/QALAB2022/bucleFor"
+    "last_opened_file_path": "C:/Users/Brenda/Desktop/ejemplos_array/AppArrays"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
